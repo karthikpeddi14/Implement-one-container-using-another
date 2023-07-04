@@ -8,7 +8,7 @@ public:
         {
             input.push(output.top());
             output.pop();
-        }
+        } 
         input.push(x);
         while(!input.empty())
         {
